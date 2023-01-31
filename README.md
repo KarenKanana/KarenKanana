@@ -1,7 +1,7 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://karenkanana.io)
+[![MasterHead](https://ecommerce-platforms.com/wp-content/uploads/2018/08/devstory_dribbble_01-1549919968.gif)](https://karenkanana.io)
 <h1 align="center">Hi 👋, I'm Karen Kanana</h1>
 <h3 align="center">I am a proactive, hard-working, enthusiastic, and highly skilled web developer based in Nairobi, Kenya.</h3>
-<img src="https://media.tenor.com/8tr_CU6730MAAAAC/web-dev-website-development.gif" alt="firebase" width="40" height="40"/>
+<img src="https://media.tenor.com/8tr_CU6730MAAAAC/web-dev-website-development.gif" alt="firebase" width="400"/>
 
 - 📫 How to reach me **kananakaren21@gmail.com**
 
