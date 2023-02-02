@@ -1,8 +1,8 @@
-[![MasterHead](https://ecommerce-platforms.com/wp-content/uploads/2018/08/devstory_dribbble_01-1549919968.gif) height="30"](https://karenkanana.io)
+<!-- [![MasterHead](https://ecommerce-platforms.com/wp-content/uploads/2018/08/devstory_dribbble_01-1549919968.gif) height="30"](https://karenkanana.io) -->
+<img src="https://media.tenor.com/8tr_CU6730MAAAAC/web-dev-website-development.gif" alt="firebase" width="400"/>
 <h1 align="center">Hi 👋, I'm Karen Kanana</h1>
 <h3 align="center">I am a proactive, hard-working, enthusiastic, and highly skilled web developer based in Nairobi, Kenya.</h3>
-<img src="https://media.tenor.com/8tr_CU6730MAAAAC/web-dev-website-development.gif" alt="firebase" width="400"/>
-
+<
 - 📫 How to reach me **kananakaren21@gmail.com**
 
 - ⚡ Fun fact **I am a professional badminton player.**
