@@ -1,6 +1,4 @@
-<div style="display: flex; justify-content: center; align-items: center; height: 100px; color: black;">
-  <img src="My.gif" style="max-width: 100%; max-height: 100%; object-fit: contain;" alt="GIF">
-</div>
+<img src="my.gif" alt="GIF">
 
 
 <h2 align="center">Hi 👋, I'm Karen Kanana</h2>
