@@ -35,6 +35,6 @@
 ### Get in touch:
 - muthomikarenkanana@gmail.com
 
-<p>I'm always engaged in various projects, and my enthusiasm sometimes prevents me from taking the time to update my portfolio. If you're interested in what I'm up to now, don't hesitate to reach out to me ::wink</p>
+<p>I'm always engaged in various projects, and my enthusiasm sometimes prevents me from taking the time to update my portfolio. If you're interested in what I'm up to now, don't hesitate to reach out to me :wink:</p>
 
 
