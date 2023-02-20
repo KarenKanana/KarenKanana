@@ -1,5 +1,5 @@
-<div style="display: flex; justify-content: center; align-items: center; height: 300px;">
-  <img src="my.gif" style="max-width: 100%; max-height: 100%; object-fit: contain;" alt="GIF">
+<div style="display: flex; justify-content: center; align-items: center; height: 300px; color: black;">
+  <img src="my.gif" style="max-width: 50%; max-height: 100%; object-fit: contain;" alt="GIF">
 </div>
 
 
