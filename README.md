@@ -1,5 +1,5 @@
 
-[![MasterHead]<img src="my.gif" alt="GIF">
+[![MasterHead](<img src="my.gif" alt="GIF">)]
 
 
 
