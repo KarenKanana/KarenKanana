@@ -1,4 +1,6 @@
-[![MasterHead](my.gif)](https://example.com)
+<p align="center">
+  <img src="my.gif" alt="GIF">
+</p>
 
 
 
