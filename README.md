@@ -1,4 +1,4 @@
-[![MasterHead](https://media.tenor.com/8tr_CU6730MAAAAC/web-dev-website-development.gif)](https://karenkanana.io)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://karenkanana.io)
 <!-- <img src="https://media.tenor.com/8tr_CU6730MAAAAC/web-dev-website-development.gif" alt="firebase" width="1000" height="400"/> -->
 <!-- [![MasterHead](https://ecommerce-platforms.com/wp-content/uploads/2018/08/devstory_dribbble_01-1549919968.gif](https://karenkanana.io) -->
 <h1 align="center">Hi 👋, I'm Karen Kanana</h1>
