@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" style="display: block; margin: 0 auto; max-width: 50%; max-height: 50px; object-fit: contain;" alt="GIF">
+<img src="My.gif" style="display: block; margin: 0 auto; max-width: 50%; max-height: 50px; object-fit: contain;" alt="GIF">
 
 
 <h2 align="center">Hi 👋, I'm Karen Kanana</h2>
