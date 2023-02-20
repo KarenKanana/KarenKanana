@@ -1,4 +1,6 @@
+<div>
 <img align="center" src="my.gif" alt="GIF">
+</div>
 
 
 
