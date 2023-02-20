@@ -1,4 +1,4 @@
-[![MasterHead](https://thumbs.gfycat.com/CalmKeyEidolonhelvum-max-1mb/s1600/2000_600px.gif)](https://karenkanana.io)
+[![MasterHead](https://thumbs.gfycat.com/CalmKeyEidolonhelvum-max-1mb/2000_600px.gif)](https://karenkanana.io)
 <h2 align="center">Hi 👋, I'm Karen Kanana</h2>
 <h4 align="center">I am a proactive, hard-working, enthusiastic, and highly skilled web developer based in Nairobi, Kenya.</h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KarenKanana &label=Profile%20views&color=0e75b6&style=flat" alt="kimutai" /> </p>
