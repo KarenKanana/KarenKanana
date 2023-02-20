@@ -1,5 +1,5 @@
-[![MasterHead](https://i.pcmag.com/imagery/articles/05tX8R6n0zFq47UDRveKyxm-5.fit_lim.size_1200x1250.v1569488385.jpg)](https://karenkanana.io)
-<h1 align="center">Hi 👋, I'm Karen Kanana</h1>
+[![MasterHead](https://i.pcmag.com/imagery/articles/05tX8R6n0zFq47UDRveKyxm-5.fit_lim.size_1000x1250.v1569488385.jpg)](https://karenkanana.io)
+<h2 align="center">Hi 👋, I'm Karen Kanana</h2>
 <h3 align="center">I am a proactive, hard-working, enthusiastic, and highly skilled web developer based in Nairobi, Kenya.</h3>
 
 - 📫 How to reach me **kananakaren21@gmail.com**
@@ -8,8 +8,16 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/misskananakaren" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="misskananakaren" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/karen kanana" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="karen kanana" height="30" width="40" /></a>
+ <a href="https://twitter.com/misskananakaren" target="blank">
+  <img align="left" alt="Kanana's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://linkedin.com/in/karen kanana" target="blank">
+  <img align="left" alt="Kanana's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://github.com/KananaKaren">
+  <img align="left" alt="Kanana's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>](https://i.pcmag.com/imagery/articles/05tX8R6n0zFq47UDRveKyxm-5.fit_lim.size_1600x900.v1569488385.jpg)
+ 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
