@@ -1,4 +1,5 @@
-[![MasterHead](my.gif){: style="margin-left: 1350px;"}](https://example.com)
+[![MasterHead](my.gif)](https://example.com)
+
 
 
 <h2 align="center">Hi 👋, I'm Karen Kanana</h2>
