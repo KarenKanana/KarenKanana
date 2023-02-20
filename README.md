@@ -1,4 +1,6 @@
-[![MasterHead](https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif)]
+<div style="display: flex; justify-content: center; align-items: center; height: 300px;">
+  <img src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif" style="max-width: 100%; max-height: 100%; object-fit: contain;" alt="GIF">
+</div>
 
 <h2 align="center">Hi 👋, I'm Karen Kanana</h2>
 <h4 align="center">I am a proactive, hard-working, enthusiastic, and highly skilled web developer based in Nairobi, Kenya.</h4>
