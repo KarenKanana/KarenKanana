@@ -1,4 +1,4 @@
-<img align="right" src="my.gif" alt="GIF">
+<img align="center" src="my.gif" alt="GIF">
 
 
 
