@@ -1,4 +1,4 @@
-[![MasterHead](https://i.pcmag.com/imagery/articles/05tX8R6n0zFq47UDRveKyxm-5.fit_lim.size_1600x1200.v1569488385.jpg)](https://karenkanana.io)
+[![MasterHead](https://i.pcmag.com/imagery/articles/05tX8R6n0zFq47UDRveKyxm-5.fit_lim.size_1200x1250.v1569488385.jpg)](https://karenkanana.io)
 <h1 align="center">Hi 👋, I'm Karen Kanana</h1>
 <h3 align="center">I am a proactive, hard-working, enthusiastic, and highly skilled web developer based in Nairobi, Kenya.</h3>
 
