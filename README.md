@@ -1,4 +1,4 @@
-<img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" style="width: 866px; height: 259px; aspect-ratio: auto 866 / 259;">
+<img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif" >
 
 <h2 align="center">Hi 👋, I'm Karen Kanana</h2>
 <h4 align="center">I am a proactive, hard-working, enthusiastic, and highly skilled web developer based in Nairobi, Kenya.</h4>
