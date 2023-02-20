@@ -1,6 +1,6 @@
 [![MasterHead](https://thumbs.gfycat.com/CalmKeyEidolonhelvum-max-1mb.gif)](https://karenkanana.io)
 <h2 align="center">Hi 👋, I'm Karen Kanana</h2>
-<h5 align="center">I am a proactive, hard-working, enthusiastic, and highly skilled web developer based in Nairobi, Kenya.</h5>
+<h4 align="center">I am a proactive, hard-working, enthusiastic, and highly skilled web developer based in Nairobi, Kenya.</h4>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=KarenKanana &label=Profile%20views&color=0e75b6&style=flat" alt="kimutai" /> </p>
 
 ### Connect with me:
@@ -13,7 +13,7 @@
 </a>
 <a href="https://github.com/KananaKaren">
   <img align="left" alt="Kanana's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
-</a> 
+</a>
 </p>
 
 ### Languages and Tools:
@@ -25,5 +25,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=karenkanana&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="karenkanana" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=karenkanana&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="karenkanana" /></p>
+
+### Get in touch:
+- muthomikarenkanana@gmail.com
 
 
