@@ -1,4 +1,4 @@
-<img src="my.gif" style="max-width: 100%; max-height: 100%; display: flex; justify-content: center; align-items: center;" alt="GIF">
+<img align="center" src="my.gif" alt="GIF">
 
 
 
