@@ -1,5 +1,5 @@
 
-<img src="my.gif" alt="GIF">
+<img align="center" src="my.gif" alt="GIF">
 
 <h2 align="center">Hi 👋, I'm Karen Kanana</h2>
 <h4 align="center">I am a proactive, hard-working, enthusiastic, and highly skilled web developer based in Nairobi, Kenya.</h4>
