@@ -1,6 +1,4 @@
-[![MasterHead](https://i.pcmag.com/imagery/articles/05tX8R6n0zFq47UDRveKyxm-5.fit_lim.size_1600x900.v1569488385.jpg)](https://karenkanana.io)
-<!-- <img src="https://media.tenor.com/8tr_CU6730MAAAAC/web-dev-website-development.gif" alt="firebase" width="1000" height="400"/> -->
-<!-- [![MasterHead](https://ecommerce-platforms.com/wp-content/uploads/2018/08/devstory_dribbble_01-1549919968.gif](https://karenkanana.io) -->
+[![MasterHead](https://i.pcmag.com/imagery/articles/05tX8R6n0zFq47UDRveKyxm-5.fit_lim.size_1600x1200.v1569488385.jpg)](https://karenkanana.io)
 <h1 align="center">Hi 👋, I'm Karen Kanana</h1>
 <h3 align="center">I am a proactive, hard-working, enthusiastic, and highly skilled web developer based in Nairobi, Kenya.</h3>
 
