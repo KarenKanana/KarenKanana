@@ -1,6 +1,5 @@
-<div style="display: flex; justify-content: center; align-items: center; height: 300px; background-color: yellow;">
-  <img src="my.gif" alt="GIF" style="max-width: 50%; max-height: 100%; object-fit: contain;">
-</div>
+
+[![MasterHead]<img src="my.gif" alt="GIF">
 
 
 
